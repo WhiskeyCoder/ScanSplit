@@ -1,6 +1,6 @@
 # 📚 ScanSplit
 
-**ScanSplit** is a Python tool that converts dual-page scanned PDFs or images into single-page PDFs — perfect for fixing scanned books, magazines, and archival documents.  
+**ScanSplit** is a Python tool that converts dual-page scanned PDFs or images into single-page PDFs, perfect for fixing scanned books, magazines, and archival documents.  
 It can optionally enhance text for better OCR accuracy, handles skewed pages, shadows in the gutter, and maintains correct reading order.
 
 ---
