@@ -47,12 +47,12 @@ python double_page_scan_to_single.py "book.pdf" --dpi 600 --no-enhance
 
 ## ⚙ Options
 Option	Description
---output / -o	Output directory (default: scan_fix_output)
---no-enhance	Skip text enhancement
---dpi	DPI for PDF rendering (default: 300)
---shadow-threshold	Darkness threshold for shadow detection (0-255, default: 50)
---min-shadow-height	Minimum shadow height ratio (default: 0.3)
---debug	Enable debug logging
+1. --output / -o	Output directory (default: scan_fix_output)
+2. --no-enhance	Skip text enhancement
+3. --dpi	DPI for PDF rendering (default: 300)
+4. --shadow-threshold	Darkness threshold for shadow detection (0-255, default: 50)
+5. --min-shadow-height	Minimum shadow height ratio (default: 0.3)
+6. --debug	Enable debug logging
 
 ## 📂 Output
 Processed files are saved to the specified output folder (default: scan_fix_output/).
